@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Magic 42]]></title>
   <link href="http://applepyarc.github.io/atom.xml" rel="self"/>
   <link href="http://applepyarc.github.io/"/>
-  <updated>2014-01-23T23:04:11+08:00</updated>
+  <updated>2014-01-23T23:33:05+08:00</updated>
   <id>http://applepyarc.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[applepyarc]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://applepyarc.github.io/blog/2014/01/23/hello-world/"/>
+    <updated>2014-01-23T23:31:22+08:00</updated>
+    <id>http://applepyarc.github.io/blog/2014/01/23/hello-world</id>
+    <content type="html"><![CDATA[<p>My first blog here
+Test&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>
