@@ -4,7 +4,7 @@
   <title><![CDATA[Magic 42]]></title>
   <link href="http://applepyarc.github.io/atom.xml" rel="self"/>
   <link href="http://applepyarc.github.io/"/>
-  <updated>2014-06-03T16:13:27+00:00</updated>
+  <updated>2014-06-03T16:18:56+00:00</updated>
   <id>http://applepyarc.github.io/</id>
   <author>
     <name><![CDATA[applepyarc]]></name>
@@ -18,7 +18,7 @@
     <link href="http://applepyarc.github.io/blog/2014/06/03/test-chinese/"/>
     <updated>2014-06-03T16:12:22+00:00</updated>
     <id>http://applepyarc.github.io/blog/2014/06/03/test-chinese</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>你好测试</p>
 ]]></content>
   </entry>
   
