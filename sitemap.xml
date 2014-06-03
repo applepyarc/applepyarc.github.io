@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+<<<<<<< HEAD
         <loc>http://applepyarc.github.io/robots.txt</loc>
         <lastmod>2014-06-03T15:36:35+00:00</lastmod>
     </url>
@@ -11,5 +12,21 @@
     <url>
         <loc>http://applepyarc.github.io/blog/archives/</loc>
         <lastmod>2014-06-03T15:36:35+00:00</lastmod>
+=======
+        <loc>http://applepyarc.github.io/blog/2014/06/03/test/</loc>
+        <lastmod>2014-06-03T09:16:04+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://applepyarc.github.io/robots.txt</loc>
+        <lastmod>2014-06-03T08:24:14+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://applepyarc.github.io/</loc>
+        <lastmod>2014-06-03T09:16:04+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://applepyarc.github.io/blog/archives/</loc>
+        <lastmod>2014-06-03T09:16:04+00:00</lastmod>
+>>>>>>> 21540400d0f182d9eef7ca817e39f022c06eecfc
     </url>
 </urlset>
