@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Magic 42]]></title>
+  <link href="http://applepyarc.github.io/atom.xml" rel="self"/>
+  <link href="http://applepyarc.github.io/"/>
+  <updated>2014-06-03T14:43:04+00:00</updated>
+  <id>http://applepyarc.github.io/</id>
+  <author>
+    <name><![CDATA[applepyarc]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://applepyarc.github.io/blog/2014/06/03/test/"/>
+    <updated>2014-06-03T09:15:43+00:00</updated>
+    <id>http://applepyarc.github.io/blog/2014/06/03/test</id>
+    <content type="html"><![CDATA[<p>test again&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>
