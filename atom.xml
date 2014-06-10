@@ -4,7 +4,7 @@
   <title><![CDATA[Magic 42]]></title>
   <link href="http://applepyarc.github.io/atom.xml" rel="self"/>
   <link href="http://applepyarc.github.io/"/>
-  <updated>2014-06-06T15:27:03+00:00</updated>
+  <updated>2014-06-10T16:02:38+00:00</updated>
   <id>http://applepyarc.github.io/</id>
   <author>
     <name><![CDATA[applepyarc]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CHY语录一]]></title>
+    <link href="http://applepyarc.github.io/blog/2014/06/10/chy-quote-1/"/>
+    <updated>2014-06-10T15:29:00+00:00</updated>
+    <id>http://applepyarc.github.io/blog/2014/06/10/chy-quote-1</id>
+    <content type="html"><![CDATA[<p>6.10.2014
+CHY: 不要看我，我很丑的。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第一记]]></title>
