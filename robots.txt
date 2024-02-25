@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://applepyarc.github.io/sitemap.xml 
