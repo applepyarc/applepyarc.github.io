@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Google饭
+水果饭
+程序员
+跑龙套的路人甲乙丁
+严谨的伪~~青年~~中年历史学者
+
+多年前的斜杠定义仍然适用，不过昭华已逝，中年不惑。
+可能真的是时间才能给予成长，许多事情千变万化，却未闻花名。
+希望可以记录一二，作为人生点滴的见证。
